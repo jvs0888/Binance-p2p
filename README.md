@@ -13,14 +13,14 @@ You can see on screenshots, how it looks like:
 
 Binance page
 
-![binance](https://user-images.githubusercontent.com/108722623/224307977-1dc4b86b-a074-422c-88d0-75d5dd6b0284.png)
+![bin](https://user-images.githubusercontent.com/108722623/224311319-89c34570-da1d-475f-bf4a-8cbf4ecfa9cf.png)
 
 Google sheets
 
-![sheet](https://user-images.githubusercontent.com/108722623/224308019-753b58bc-ebb6-4ce7-a648-de3e27b57d80.png)
+![sheet](https://user-images.githubusercontent.com/108722623/224311357-d28d3c05-5a76-4563-9d96-e7fa8b45a8d6.png)
 
 MySQL database
 
-![sql](https://user-images.githubusercontent.com/108722623/224308201-93a10b0f-dd83-4a86-81db-c028c1efb7a6.png)
+![sql](https://user-images.githubusercontent.com/108722623/224311394-992e5f61-654c-4dee-acee-5687eebe9c29.png)
 
 To get started you need to add api keys from Google Cloud Console and ID of google sheet
