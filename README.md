@@ -23,4 +23,4 @@ MySQL database
 
 ![sql](https://user-images.githubusercontent.com/108722623/224311394-992e5f61-654c-4dee-acee-5687eebe9c29.png)
 
-To get started you need to add api keys from Google Cloud Console and ID of google sheet
+To get started you need to have api keys from Google Cloud Console and ID of google sheet
